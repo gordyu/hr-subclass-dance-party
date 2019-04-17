@@ -5,20 +5,26 @@ body{
   margin: 0px;
   background-color:#444;
   font-size: 18px;
+  background-image: url("https://images.pexels.com/photos/1308624/pexels-photo-1308624.jpeg?cs=srgb&dl=4k-wallpaper-architecture-background-1308624.jpg&fm=jpg");
+  background-size: cover;
+  font: 18px trebuchet MS;
 }
 body, a:link, a:visited, a:active{
   color: lightblue;
 }
 .title, .addDancerButton, .lineUpButton{
+
   padding:5px 12px;
   float:right;
 }
 .topbar{
   height:32px;
-  background-color: #555;
+  background-color: black;
 }
 .title{
-  background-color: #777;
+  background-color: black;
+  font: 18px trebuchet MS;
+  color: yellow;
 }
 .dancer{
   border-radius:100%;
